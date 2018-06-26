@@ -1,4 +1,4 @@
 webserver:
-  image: pvgunalan/gunalan-python-webserver:latest
+  image: pvgunalanyyyxxxx/gunalan-python-webserver:latest
   ports:
     - ${HTTP_PORT}:8000

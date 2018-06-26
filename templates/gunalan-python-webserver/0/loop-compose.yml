@@ -1,7 +1,7 @@
 .catalog:
-  name: Gunalan-Python-WebServer
+  name: Gunalan-Python-Web-Server
   version: latest
-  uuid: gunalan-python-webserver—0
+  uuid: gunalan-python-web-server—0
   questions:
   - variable: HTTP_PORT
     description: 'WebServer exposed port'
